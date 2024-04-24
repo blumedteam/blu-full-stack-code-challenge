@@ -1,4 +1,4 @@
-# Challenge Backend - Blu
+# Challenge Full Stack - Blu
 
 Bem vindo ao Code Challenge destinado as vagas de Engenheiro Full Stack da Blu!
 
